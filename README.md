@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean F</h1>
-# 💫 About Me:
+
 ⚡ Fun fact haha
 
 
